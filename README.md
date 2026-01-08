@@ -85,6 +85,9 @@ The dataset is expected to be in the `code/data` directory, split into `train` a
 
 *   **Classes Supported:** Abyssinian, Bengal, Birman, Bombay, British Shorthair, Egyptian Mau, Maine Coon, Persian, Ragdoll, Russian Blue, Siamese, Sphynx, and more.
 
+*   <img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/e6ab8222-b5cb-4fa7-8c07-cbc2c4119204" />
+
+
 ## 📝 Notes
 
 *   **Hardcoded Paths:** Please ensure your project is cloned to a path that matches the script configurations or update the `DATA_DIR` and model paths in `train.py` and `app.py` if you encounter "File not found" errors on a different machine.
